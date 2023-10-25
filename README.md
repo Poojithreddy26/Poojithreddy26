@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poojithreddy26
 - 👀 I’m interested in Python programming and Machine Learning expertise.
-- 🌱 I’m currently learning machine learning and deep learning algorithms and implenting them in python programming.
+- 🌱 I’m currently learning machine learning and deep learning algorithms and implementing them in python programming.
 - 💞️ Would like to collaborate with people working on projects related to Python Programming[API development] and Machine learning as well as Prompt Engineering.
 - 📫 How to reach me in Gmail:ngrpoojithreddy@gmail.com
 
