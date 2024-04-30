@@ -1,7 +1,7 @@
 - Hi there! *  I'm Poojith ,A passionate software engineer with a strong interest in Python development and Machine Learning (ML).
 - **Python Programming**: Experienced in developing and deploying Python applications, including APIs.
-  **Machine Learning (ML)**: Actively learning and implementing various ML algorithms and deep learning techniques in Python.
-  **Generative AI (GenAI)**: Exploring the exciting world of GenAI, particularly Prompt Engineering.
+- **Machine Learning (ML)**: Actively learning and implementing various ML algorithms and deep learning techniques in Python.
+- **Generative AI (GenAI)**: Exploring the exciting world of GenAI, particularly Prompt Engineering.
 - I'm actively seeking opportunities to collaborate on projects that leverage my skills in:
   Python API development
   Machine Learning
